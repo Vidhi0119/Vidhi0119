@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-
-- 🔭 I’m currently working on building backend javascript project using Node js
-- 🌱 I’m currently pursuing Btech from DJSCE.
-- 👯 I’m looking to collaborate on builing API and websites using js
-- 💬 Ask me about Logic building and Mathematics
-- 📫 How to reach me: vidhimishra0119@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact:  I can solve a Rubik's cube faster than I can debug code (most of the time)!
+- 💻 B.Tech Computer Engineering student @ DJSCE (CGPA: 9.32)
+- 🔭 Building backend systems using Node.js, Express & MongoDB
+- ⚙️ Interested in scalable APIs, system design & real-world applications
+- 👯 Looking to collaborate on full-stack and backend-heavy projects
+- 💬 Strong in logic building, problem-solving & mathematics
+- 📫 Email: vidhimishra0119@gmail.com
+- ⚡ Fun fact: Faster at solving a Rubik’s cube than debugging (on good days 😄)
